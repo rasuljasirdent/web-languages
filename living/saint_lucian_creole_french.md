@@ -1,14 +1,19 @@
 # Web Language: Saint Lucian Creole French
 
-Additional names:
-- 
+Additional names: 
+- Lesser Antillean Creole (excluding Guadeloupean)
+- Antillean Creole
+- Martinican Creole/créole martiniquais
+- Dominican Creole/créole dominiquais
+- Kréyol 
 
 News:
-- 
+- https://antilla-martinique.com/category/kreyolad/
 - 
 
 Culture / History:
-- 
+- https://www.potomitan.info/ (multiple French-based Creoles)
+- https://fondaskreyol.org (multiple French-based Creoles)
 - 
 
 Government:
@@ -20,8 +25,8 @@ Political Parties:
 - 
 
 Other:
-- 
-- 
+- https://www.lafleurcurieuse.fr
+- https://kweyolsentlisi.weebly.com/
 
 Informative links (in English):
 - 
@@ -30,6 +35,7 @@ Informative links (in English):
 Additional Information:
 - ISO-639-3 code: acf
 - https://en.wikipedia.org/wiki/ISO_639:acf
+
 
 
 Scripts:
